@@ -1,0 +1,6 @@
+/target/
+/tomcat8_redis_session.iml
+/.idea/
+/.settings/
+/.classpath
+/.project
